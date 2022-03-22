@@ -1,4 +1,4 @@
-module github.com/tigera/api
+module github.com/egoldblum/api/v3
 
 go 1.16
 
